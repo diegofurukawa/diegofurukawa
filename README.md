@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://app.rocketseat.com.br/me/diego-furukawa-1581195779"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=diego-furukawa-1581195779&type=card" width="280" alt="Diego Furukawa's Rocket ID"/></a>
