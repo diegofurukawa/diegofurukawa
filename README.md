@@ -1,6 +1,6 @@
 # Diego Furukawa
 
-> Analista DB SQL Server | Analista de Sistemas de TI | Integração ETL | Python & SQL para Dados
+> Dev Backend | Phyton | API's | React & TypeScript | Dev SQL Server | Integração ETL
 
 📍 Piracicaba, Brasil | 📧 diegofurukawa@gmail.com | 📱 +55 (19) 98599-2882
 
