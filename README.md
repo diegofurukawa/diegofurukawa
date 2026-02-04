@@ -15,6 +15,7 @@ Profissional Sênior em Análise de Dados, Business Intelligence (BI) e Arquitet
 - **Frontend**: ReactJS, React Native, Next.js, Vue.js, TypeScript
 - **Integração & BI**: Integração SAP, APIs RESTful, ETL/ELT Pipelines, Power BI, Grafana
 - **Data Modeling**: Star Schema, Data Vault
+- **AI-Assisted Development**: Claude Code, Cursor, Kiro, Antigravity
 - **DevOps & Infra**: Linux, Proxmox, Portainer
 - **Metodologias**: Agile Scrum (Certificado EXIN), BPM, UML
 - **Idiomas**: Português (Nativo), Espanhol (Avançado), Inglês (Avançado)
