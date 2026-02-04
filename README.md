@@ -50,64 +50,16 @@ Profissional Sênior em Análise de Dados, Business Intelligence (BI) e Arquitet
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/diegofurukawa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegofurukawa&show_icons=true&theme=dark&title_color=ffffff&text_color=c9cacc&icon_color=6366f1&bg_color=292257&hide_border=true&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/diegofurukawa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegofurukawa&layout=compact&langs_count=8&theme=dark&title_color=ffffff&text_color=c9cacc&bg_color=292257&hide_border=true"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/diegofurukawa">
-    <img src="https://streak-stats.demolab.com/?user=diegofurukawa&theme=dark&background=292257&ring=6366f1&fire=6366f1&currStreakLabel=ffffff&hide_border=true"/>
-  </a>
-</p>
-
----
-
 ## Projetos em Destaque
 
-<p align="center">
-  <a href="https://github.com/diegofurukawa/InLottery">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diegofurukawa&repo=InLottery&theme=dark&bg_color=292257&title_color=ffffff&text_color=c9cacc&icon_color=6366f1&hide_border=true"/>
-  </a>
-  <a href="https://github.com/diegofurukawa/kawa_missa">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diegofurukawa&repo=kawa_missa&theme=dark&bg_color=292257&title_color=ffffff&text_color=c9cacc&icon_color=6366f1&hide_border=true"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/diegofurukawa/meubairro-catagua">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diegofurukawa&repo=meubairro-catagua&theme=dark&bg_color=292257&title_color=ffffff&text_color=c9cacc&icon_color=6366f1&hide_border=true"/>
-  </a>
-  <a href="https://github.com/diegofurukawa/kawa_AirBxB">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diegofurukawa&repo=kawa_AirBxB&theme=dark&bg_color=292257&title_color=ffffff&text_color=c9cacc&icon_color=6366f1&hide_border=true"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/diegofurukawa/KawaTenda">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diegofurukawa&repo=KawaTenda&theme=dark&bg_color=292257&title_color=ffffff&text_color=c9cacc&icon_color=6366f1&hide_border=true"/>
-  </a>
-  <a href="https://github.com/diegofurukawa/KawaScore">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diegofurukawa&repo=KawaScore&theme=dark&bg_color=292257&title_color=ffffff&text_color=c9cacc&icon_color=6366f1&hide_border=true"/>
-  </a>
-</p>
-
-### Descrição dos Projetos
-
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| **[InLottery](https://github.com/diegofurukawa/InLottery)** | Sistema de análise estatística de loterias | Python, Data Analysis |
-| **[kawa_missa](https://github.com/diegofurukawa/kawa_missa)** | Sistema de gestão para paróquias e missas | React, Node.js |
-| **[meubairro-catagua](https://github.com/diegofurukawa/meubairro-catagua)** | Portal comunitário do bairro Cataguá | React, TypeScript |
-| **[kawa_AirBxB](https://github.com/diegofurukawa/kawa_AirBxB)** | Plataforma de hospedagem estilo Airbnb | Next.js, TypeScript |
-| **[KawaTenda](https://github.com/diegofurukawa/KawaTenda)** | Sistema de gestão para tendas e eventos | Python, FastAPI |
-| **[KawaScore](https://github.com/diegofurukawa/KawaScore)** | Sistema de placar e pontuação em tempo real | React, WebSocket |
+| Projeto | Descrição | Stack |
+|:--------|:----------|:------|
+| [![InLottery](https://img.shields.io/badge/InLottery-292257?style=flat-square&logo=github)](https://github.com/diegofurukawa/InLottery) | Extensão para navegadores que facilita jogar inumeros jogos de uma vez em loterias Caixa | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [![kawa_missa](https://img.shields.io/badge/kawa__missa-292257?style=flat-square&logo=github)](https://github.com/diegofurukawa/kawa_missa) | Sistema de apoio e gestão de participantes de missas e eventos relacionados a paróquias. | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| [![meubairro-catagua](https://img.shields.io/badge/meubairro--catagua-292257?style=flat-square&logo=github)](https://github.com/diegofurukawa/meubairro-catagua) | Portal comunitário do bairro Cataguá | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [![kawa_AirBxB](https://img.shields.io/badge/kawa__AirBxB-292257?style=flat-square&logo=github)](https://github.com/diegofurukawa/kawa_AirBxB) | Plataforma de hospedagem estilo Airbnb | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [![KawaTenda](https://img.shields.io/badge/KawaTenda-292257?style=flat-square&logo=github)](https://github.com/diegofurukawa/KawaTenda) | Sistema de gestão para tendas e eventos | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| [![KawaScore](https://img.shields.io/badge/KawaScore-292257?style=flat-square&logo=github)](https://github.com/diegofurukawa/KawaScore) | Sistema de placar e pontuação em tempo real | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
 
 ---
 
