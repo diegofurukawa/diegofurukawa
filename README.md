@@ -1,54 +1,60 @@
 # Diego Furukawa
 
-> Dev Backend | Phyton | API's | React & TypeScript | Dev SQL Server | Integração ETL
+> Analista de Sistemas | Integração ETL | SQL | Dev FullStack
 
 📍 Piracicaba, Brasil | 📧 diegofurukawa@gmail.com | 📱 +55 (19) 98599-2882
 
 ## Sobre Mim
 
-Atuo como Analista de Sistema, Integração e ou Banco de Dados SQL Server com experiência desde 2009 em desenvolvimento e otimização de soluções empresariais. Especialista em modelagem de dados e tuning de queries. Sólido conhecimento em integração de dados, ETL, reporting services e analysis services. Experiência comprovada na implementação e manutenção de ambientes críticos com alta disponibilidade, incluindo migração e consolidação de bases de dados corporativas de grande porte.
+Profissional Sênior em Análise de Dados, Business Intelligence (BI) e Arquitetura de Integração (ETL/ELT), com 15 anos de experiência comprovada na transformação de dados brutos em inteligência de negócios. Histórico de sucesso no gerenciamento e execução de projetos de integração complexos (high-volume) em ambientes multinacionais (SAP para clientes em 6 países da LATAM). Especialista em modelagem e otimização de bancos de dados (SQL Avançado), desenvolvimento Backend (Python, C# .NET Core) e soluções de BI (Power BI, Grafana). Focado em governança de dados, pipelines em Cloud e metodologias ágeis.
 
 ## Competências Técnicas
 
-- **Bancos de Dados & Desenvolvimento**: SQL Server, MySQL, PostgreSQL, SQLite, Python (Django, FastAPI)
-- **Front-end**: React + TypeScript
-- **Integração & Ferramentas**: Integração SAP, Arquitetura ETL, Power BI, Grafana
-- **Metodologias**: Agile, Scrum, BPM, UML
-- **Idiomas**: Português (Nativo), Espanhol (Avançado), Inglês (Intermediário)
+- **Bancos de Dados**: SQL Server (Avançado), PostgreSQL, SQLite - Procedures, Functions, Triggers, CTEs
+- **Backend**: Python (Django, FastAPI), C# (.NET Core), Node.js, ASP.NET Core
+- **Frontend**: ReactJS, React Native, Next.js, Vue.js, TypeScript
+- **Integração & BI**: Integração SAP, APIs RESTful, ETL/ELT Pipelines, Power BI, Grafana
+- **Data Modeling**: Star Schema, Data Vault
+- **DevOps & Infra**: Linux, Proxmox, Portainer
+- **Metodologias**: Agile Scrum (Certificado EXIN), BPM, UML
+- **Idiomas**: Português (Nativo), Espanhol (Avançado), Inglês (Avançado)
 
 ## Experiência Profissional
 
+### KawaTech (Ago 2024 - Presente)
+*Desenvolvedor FullStack | Especialista em Integração ETL*
+- Desenvolvimento e manutenção de pipelines ETL/ELT de alto volume em ambientes Cloud
+- Soluções web de alta performance (ASP.NET Core, Node.js, Python) e APIs RESTful
+- Modelagem e otimização de dados em SQL Server
+- Gestão de ambientes de infraestrutura (Linux, Proxmox, Portainer)
+
 ### MC1 Tecnologia (Ago 2020 - Ago 2024)
-*Analista de Integração Sênior | Analista de Sistemas*
-- Liderança do projeto de integração SAP para multinacionais (Mondelez International, Bocadeli)
-- Arquiteto de soluções de integração entre sistemas legados e plataforma WinTheMarket
-- Gestão de arquitetura ETL para processamento de dados em larga escala
-- Liderança técnica de equipe internacional com 4-6 especialistas na LATAM
+*Analista de Sistema Sênior | Analista de Integração de Dados*
+- Gestão e entrega de integração de dados críticos com SAP para clientes multinacionais (Mondelez Internacional) em 6 países da LATAM
+- Desenvolvimento de rotinas ETL/ELT de alto volume para plataforma MC1 - WinTheMarket
+- Otimização de performance de relatórios gerenciais através de reestruturação de views e scripts SQL avançados
 
-### ITGREEN Tecnologia (Ago 2017 - Jul 2020)
-*Analista de Sistemas | Especialista QA*
-- Consultor Sênior de ERP na Protege
-- Implementação de soluções para múltiplos segmentos de negócio
-- Desenvolvimento de sistema analítico comparativo entre custos comerciais e operacionais
-- Criação de dashboards gerenciais avançados em Power BI
+### ItGreen Tecnologia (Ago 2017 - Jul 2020)
+*Analista de Negócios Pleno | Consultor Sênior de ERP / QA*
+- Consultoria e sustentação de ERPs, liderando integração de módulos de RH, Comercial e Operacional
+- Soluções analíticas e otimização de relatórios para Protege Transportadora de Valores
+- Foco em métricas de negócio (Faturamento e RPC) e análise de rentabilidade
 
-### Experiências Anteriores
-- **Grupo Protege** (2014-2017): Analista de Negócios | Consultor
-- **HK Soluções e Serviços** (2012-2013): Analista de Desenvolvimento de Sistemas
-- **Anflatech Informática** (2011-2012): Analista de Desenvolvimento de Sistemas
+### Grupo Protege (Mar 2014 - Ago 2017)
+*Analista de Negócios | Consultor (Key User)*
+- Liderança na implementação do ERP proprietário SIPVIG
+- Especialização em setores: Segurança Privada, Facilities, Segurança Eletrônica e Serviços Aeroportuários
 
 ## Formação
 
-- **Big Data & Analytics** - UniCV - Centro Universiário Cidade Verde (2025 - Cursando)
-- **Ciência de Dados** - EBAC - Escola Britânica de Artes Criativas e Tecnologia (2023-2024)
-- **Tecnologia em Banco de Dados** - Faculdade Bandeirantes (2010-2012)
+- **Tecnologia em Big Data e Inteligência Analítica** - UNICV - Centro Universitário Cidade Verde (Cursando)
+- **Profissão Cientista de Dados** - EBAC - Escola Britânica de Artes Criativas e Tecnologia (2024)
+- **Tecnologia em Banco de Dados** - Faculdade Bandeirantes (2012)
 
-
-## Certificações Recentes
-- Excel do Zero ao Pro (EBAC)
-- Inteligência Artificial (EBAC)
-- PostgreSQL Básico ao Avançado v2024 (Udemy)
-- Descubra o Python (LinkedIn)
+## Certificações
+- Agile Scrum Foundation (EXIN) - Daryus (2020)
+- Inteligência Artificial - EBAC (2024)
+- PostgreSQL do Básico ao Avançado v2024 - Udemy (2023)
 
 ## Projetos GitHub & Escrita Técnica
 - [Perfil GitHub](https://github.com/diegofurukawa)
