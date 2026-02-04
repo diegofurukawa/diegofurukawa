@@ -1,13 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:414868&height=180&section=header&text=Diego%20Furukawa&fontSize=42&fontColor=7aa2f7&fontAlignY=35&desc=Analista%20de%20Sistemas%20|%20Integração%20ETL%20|%20SQL%20|%20Dev%20FullStack&descSize=16&descAlignY=55&descColor=a9b1d6"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:292257,100:4a4e69&height=180&section=header&text=Diego%20Furukawa&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Analista%20de%20Sistemas%20|%20Integração%20ETL%20|%20SQL%20|%20Dev%20FullStack&descSize=16&descAlignY=55&descColor=e0e0e0"/>
 
 <p align="center">
-  <a href="mailto:diegofurukawa@gmail.com"><img src="https://img.shields.io/badge/Email-diegofurukawa@gmail.com-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/diego-furukawa-17658426/"><img src="https://img.shields.io/badge/LinkedIn-Diego%20Furukawa-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/diegofurukawa"><img src="https://img.shields.io/badge/GitHub-diegofurukawa-7aa2f7?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:diegofurukawa@gmail.com"><img src="https://img.shields.io/badge/Email-diegofurukawa@gmail.com-292257?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/diego-furukawa-17658426/"><img src="https://img.shields.io/badge/LinkedIn-Diego%20Furukawa-292257?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/diegofurukawa"><img src="https://img.shields.io/badge/GitHub-diegofurukawa-292257?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=diegofurukawa&color=7aa2f7&style=flat-square&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=diegofurukawa&color=292257&style=flat-square&label=Profile+Views"/>
 </p>
 
 ---
@@ -53,12 +53,18 @@ Profissional Sênior em Análise de Dados, Business Intelligence (BI) e Arquitet
 ## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegofurukawa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegofurukawa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27"/>
+  <a href="https://github.com/diegofurukawa">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegofurukawa&show_icons=true&theme=dark&title_color=ffffff&text_color=c9cacc&icon_color=6366f1&bg_color=292257&hide_border=true&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/diegofurukawa">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegofurukawa&layout=compact&langs_count=8&theme=dark&title_color=ffffff&text_color=c9cacc&bg_color=292257&hide_border=true"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegofurukawa&theme=tokyonight&hide_border=true&background=1a1b27"/>
+  <a href="https://github.com/diegofurukawa">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegofurukawa&theme=dark&background=292257&ring=6366f1&fire=6366f1&currStreakLabel=ffffff&hide_border=true"/>
+  </a>
 </p>
 
 ---
@@ -102,9 +108,9 @@ Profissional Sênior em Análise de Dados, Business Intelligence (BI) e Arquitet
 ## Certificações
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Agile%20Scrum%20Foundation-EXIN-7aa2f7?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Inteligência%20Artificial-EBAC-7aa2f7?style=flat-square"/>
-  <img src="https://img.shields.io/badge/PostgreSQL%20Avançado-Udemy-7aa2f7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Agile%20Scrum%20Foundation-EXIN-292257?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Inteligência%20Artificial-EBAC-292257?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PostgreSQL%20Avançado-Udemy-292257?style=flat-square"/>
 </p>
 
 ---
@@ -119,4 +125,4 @@ Profissional Sênior em Análise de Dados, Business Intelligence (BI) e Arquitet
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:414868&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:292257,100:4a4e69&height=120&section=footer"/>
