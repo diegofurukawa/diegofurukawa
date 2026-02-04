@@ -63,9 +63,51 @@ Profissional Sênior em Análise de Dados, Business Intelligence (BI) e Arquitet
 
 <p align="center">
   <a href="https://github.com/diegofurukawa">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegofurukawa&theme=dark&background=292257&ring=6366f1&fire=6366f1&currStreakLabel=ffffff&hide_border=true"/>
+    <img src="https://streak-stats.demolab.com/?user=diegofurukawa&theme=dark&background=292257&ring=6366f1&fire=6366f1&currStreakLabel=ffffff&hide_border=true"/>
   </a>
 </p>
+
+---
+
+## Projetos em Destaque
+
+<p align="center">
+  <a href="https://github.com/diegofurukawa/InLottery">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diegofurukawa&repo=InLottery&theme=dark&bg_color=292257&title_color=ffffff&text_color=c9cacc&icon_color=6366f1&hide_border=true"/>
+  </a>
+  <a href="https://github.com/diegofurukawa/kawa_missa">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diegofurukawa&repo=kawa_missa&theme=dark&bg_color=292257&title_color=ffffff&text_color=c9cacc&icon_color=6366f1&hide_border=true"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/diegofurukawa/meubairro-catagua">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diegofurukawa&repo=meubairro-catagua&theme=dark&bg_color=292257&title_color=ffffff&text_color=c9cacc&icon_color=6366f1&hide_border=true"/>
+  </a>
+  <a href="https://github.com/diegofurukawa/kawa_AirBxB">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diegofurukawa&repo=kawa_AirBxB&theme=dark&bg_color=292257&title_color=ffffff&text_color=c9cacc&icon_color=6366f1&hide_border=true"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/diegofurukawa/KawaTenda">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diegofurukawa&repo=KawaTenda&theme=dark&bg_color=292257&title_color=ffffff&text_color=c9cacc&icon_color=6366f1&hide_border=true"/>
+  </a>
+  <a href="https://github.com/diegofurukawa/KawaScore">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diegofurukawa&repo=KawaScore&theme=dark&bg_color=292257&title_color=ffffff&text_color=c9cacc&icon_color=6366f1&hide_border=true"/>
+  </a>
+</p>
+
+### Descrição dos Projetos
+
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| **[InLottery](https://github.com/diegofurukawa/InLottery)** | Sistema de análise estatística de loterias | Python, Data Analysis |
+| **[kawa_missa](https://github.com/diegofurukawa/kawa_missa)** | Sistema de gestão para paróquias e missas | React, Node.js |
+| **[meubairro-catagua](https://github.com/diegofurukawa/meubairro-catagua)** | Portal comunitário do bairro Cataguá | React, TypeScript |
+| **[kawa_AirBxB](https://github.com/diegofurukawa/kawa_AirBxB)** | Plataforma de hospedagem estilo Airbnb | Next.js, TypeScript |
+| **[KawaTenda](https://github.com/diegofurukawa/KawaTenda)** | Sistema de gestão para tendas e eventos | Python, FastAPI |
+| **[KawaScore](https://github.com/diegofurukawa/KawaScore)** | Sistema de placar e pontuação em tempo real | React, WebSocket |
 
 ---
 
