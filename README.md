@@ -69,7 +69,7 @@ Utilizo metodologias ágeis, ferramentas de CI/CD e, mais recentemente, tenho ex
 | **Antigravity** | Prototipagem rápida, scaffolding de projetos | Geração de boilerplate, setup inicial |
 | **Qoder** | Debugging assistido, análise de erros, pair programming | Troubleshooting, resolução de bugs |
 
-#### Boas Práticas
+<!-- #### Boas Práticas
 
 **1. Segurança e Privacidade**
 - ❌ **NUNCA** compartilhar credenciais, tokens de API ou dados sensíveis com agentes
@@ -191,7 +191,7 @@ claude code
 - [ ] Segurança foi validada
 - [ ] Compatibilidade com sistema existente verificada
 
----
+--- -->
 
 ## Projetos em Destaque
 
