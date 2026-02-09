@@ -250,6 +250,14 @@ claude code
   <img src="https://img.shields.io/badge/PostgreSQL%20Avançado-Udemy-292257?style=flat-square"/>
 </p>
 
+## Idiomas
+
+| Idioma | Nível | Status |
+|--------|-------|--------|
+| 🇧🇷 Português | Nativo | Fluente |
+| 🇪🇸 Espanhol | Avançado/Fluente | Profissional |
+| 🇬🇧 Inglês | Intermediário | Cursando |
+
 ---
 
 <p align="center">
