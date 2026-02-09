@@ -14,7 +14,11 @@
 
 ## Sobre Mim
 
-Profissional Sênior em Análise de Dados, Business Intelligence (BI) e Arquitetura de Integração (ETL/ELT), com 15 anos de experiência comprovada na transformação de dados brutos em inteligência de negócios. Histórico de sucesso no gerenciamento e execução de projetos de integração complexos (high-volume) em ambientes multinacionais (SAP para clientes em 6 países da LATAM). Especialista em modelagem e otimização de bancos de dados (SQL Avançado), desenvolvimento Backend (Python, C# .NET Core) e soluções de BI (Power BI, Grafana). Focado em governança de dados, pipelines em Cloud e metodologias ágeis.
+Trabalho há 15 anos com tecnologia, transitando entre análise de sistemas e desenvolvimento. Minha experiência inclui integração de dados (ETL/ELT), desenvolvimento web full stack e arquitetura de soluções. Já atuei em projetos de integração SAP para clientes multinacionais na LATAM (Colômbia, Equador, entre outros) e desenvolvo aplicações utilizando Python, C# .NET Core, Node.js, React, Next.js e Vue.js.
+
+No dia a dia, trabalho com modelagem de dados (SQL), Business Intelligence, e tenho me aprofundado em DevOps e soluções em Cloud. Busco equilibrar a visão analítica de negócios com a prática de desenvolvimento, criando soluções funcionais e alinhadas às necessidades reais.
+
+Utilizo metodologias ágeis, ferramentas de CI/CD e, mais recentemente, tenho explorado agentes IA (Claude, Cursor) como apoio ao desenvolvimento, sempre com atenção à qualidade e segurança do código.
 
 ---
 
@@ -46,7 +50,146 @@ Profissional Sênior em Análise de Dados, Business Intelligence (BI) e Arquitet
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kiro-6366F1?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Antigravity-8B5CF6?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qoder-FF6B6B?style=for-the-badge&logoColor=white"/>
 </p>
+
+---
+
+## Governança de Agentes IA
+
+### Diretrizes de Uso
+
+#### Quando Usar Cada Agente
+
+| Agente | Casos de Uso Principais | Pontos Fortes |
+|:-------|:----------------------|:--------------|
+| **Claude** | Análise de código complexo, documentação, arquitetura de sistemas, refatoração | Raciocínio profundo, contexto amplo, explicações detalhadas |
+| **Cursor** | Desenvolvimento rápido, edição inline, autocompletar contextual | Integração IDE, produtividade, sugestões em tempo real |
+| **Kiro** | Review de código, análise de qualidade, sugestões de melhorias | Foco em code quality, padrões de projeto |
+| **Antigravity** | Prototipagem rápida, scaffolding de projetos | Geração de boilerplate, setup inicial |
+| **Qoder** | Debugging assistido, análise de erros, pair programming | Troubleshooting, resolução de bugs |
+
+#### Boas Práticas
+
+**1. Segurança e Privacidade**
+- ❌ **NUNCA** compartilhar credenciais, tokens de API ou dados sensíveis com agentes
+- ✅ Usar variáveis de ambiente para informações confidenciais
+- ✅ Revisar todo código gerado antes de commit
+- ✅ Sanitizar logs e outputs antes de compartilhar em contextos de IA
+
+**2. Qualidade de Código**
+- ✅ Sempre revisar e testar código gerado por IA
+- ✅ Manter padrões de código do projeto (linters, formatters)
+- ✅ Documentar decisões arquiteturais significativas
+- ✅ Escrever testes para código crítico gerado por IA
+
+**3. Versionamento e Rastreabilidade**
+- ✅ Commits devem ser atômicos e descritivos
+- ✅ Indicar quando código foi assistido por IA (opcional: `Co-authored-by: Claude/Cursor`)
+- ✅ Revisar PRs gerados por IA com mesmo rigor de código humano
+- ✅ Manter histórico claro de mudanças
+
+### Políticas e Restrições
+
+#### Código Gerado por IA
+
+**Aprovação Obrigatória:**
+- Mudanças em sistemas de autenticação/autorização
+- Modificações em esquemas de banco de dados
+- Alterações em pipelines de CI/CD
+- Código que lida com dados pessoais (LGPD/GDPR)
+
+**Restrições:**
+- Não usar IA para gerar código de segurança crítica sem revisão especializada
+- Não confiar cegamente em sugestões de dependências ou bibliotecas
+- Não usar IA para decisões de negócio ou arquitetura sem validação humana
+
+#### Dados e Contexto
+
+**Permitido compartilhar:**
+- ✅ Código open source público
+- ✅ Documentação técnica genérica
+- ✅ Erros e logs sanitizados
+- ✅ Estrutura de projeto e arquitetura
+
+**Proibido compartilhar:**
+- ❌ Credenciais e segredos
+- ❌ Dados de clientes/usuários
+- ❌ Propriedade intelectual confidencial
+- ❌ Informações regulatórias sensíveis
+
+### Workflows e Integrações
+
+#### Workflow Padrão de Desenvolvimento
+
+```bash
+# 1. Planejamento (Claude)
+# Análise de requisitos, design de arquitetura, decisões técnicas
+
+# 2. Implementação (Cursor/Antigravity)
+# Desenvolvimento com autocompletar, geração de código base
+
+# 3. Refinamento (Kiro)
+# Code review, otimizações, padrões de código
+
+# 4. Debugging (Qoder)
+# Resolução de problemas, análise de erros
+
+# 5. Documentação (Claude)
+# README, comentários, documentação técnica
+```
+
+#### Comandos e Configurações Úteis
+
+**Claude CLI/Code:**
+```bash
+# Iniciar sessão de desenvolvimento
+claude code
+
+# Commit assistido
+/commit
+
+# Review de PR
+/review-pr <número>
+```
+
+**Cursor:**
+```bash
+# Ativar Composer (Ctrl+I)
+# Edição multi-arquivo contextual
+
+# Usar Chat (Ctrl+L)
+# Perguntas sobre o código
+
+# Autocompletar (Tab)
+# Sugestões inline contextuais
+```
+
+#### Integração com Git
+
+**Mensagens de Commit com IA:**
+- Usar descrições claras e significativas
+- Seguir padrão: `tipo(escopo): descrição`
+- Exemplos:
+  - `feat(auth): adicionar autenticação OAuth2`
+  - `fix(etl): corrigir timeout em pipeline de dados`
+  - `docs(readme): atualizar governança de agentes IA`
+
+**Branch Strategy:**
+- Criar branches descritivas: `feature/ai-assisted-<feature>`
+- PRs devem incluir contexto de como IA foi utilizada (se relevante)
+- Manter histórico limpo e linear
+
+#### Checklist de Qualidade para Código Gerado por IA
+
+- [ ] Código foi revisado linha por linha
+- [ ] Testes foram escritos e estão passando
+- [ ] Sem credenciais ou dados sensíveis expostos
+- [ ] Segue padrões e convenções do projeto
+- [ ] Documentação foi atualizada
+- [ ] Performance foi considerada
+- [ ] Segurança foi validada
+- [ ] Compatibilidade com sistema existente verificada
 
 ---
 
@@ -57,7 +200,7 @@ Profissional Sênior em Análise de Dados, Business Intelligence (BI) e Arquitet
 | [![InLottery](https://img.shields.io/badge/InLottery-292257?style=flat-square&logo=github)](https://github.com/diegofurukawa/InLottery) | Extensão para navegadores que facilita jogar inumeros jogos de uma vez em loterias Caixa | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [![kawa_missa](https://img.shields.io/badge/kawa__missa-292257?style=flat-square&logo=github)](https://github.com/diegofurukawa/kawa_missa) | Sistema de apoio e gestão de participantes de missas e eventos relacionados a paróquias. | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
 | [![meubairro-catagua](https://img.shields.io/badge/meubairro--catagua-292257?style=flat-square&logo=github)](https://github.com/diegofurukawa/meubairro-catagua) | Portal comunitário do bairro Jd. das Oliveiras | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| [![kawa_AirBxB](https://img.shields.io/badge/kawa__AirBxB-292257?style=flat-square&logo=github)](https://github.com/diegofurukawa/kawa_AirBxB) | Plataforma apoio "jurídico" em locações/diárias, Check-in e CheckOut para hospedagens do Airbnb ou similares | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [![kawa_AirBxB](https://img.shields.io/badge/kawa__AirBxB-292257?style=flat-square&logo=github)](https://github.com/diegofurukawa/kawa_AirBxB) | Plataforma apoio "jurídico" para de Check-in e CheckOut para hospedagens do Airbnb | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | [![KawaTenda](https://img.shields.io/badge/KawaTenda-292257?style=flat-square&logo=github)](https://github.com/diegofurukawa/KawaTenda) | Sistema de gestão para tendas, mercearias e mini comércios | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
 | [![KawaScore](https://img.shields.io/badge/KawaScore-292257?style=flat-square&logo=github)](https://github.com/diegofurukawa/KawaScore) | Sistema de Gestão de Ligas(Amadores ou Semi-Profissionais) com Campeonatos, Classificação, Artilharia, placar, pontuação em tempo real | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
 
